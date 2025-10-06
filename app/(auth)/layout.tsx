@@ -27,11 +27,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Sign In to SabiCon",
     description: "A social platform to share and discover ideas. Join now!",
-    url: "https://your-site.com/auth", // Replace with your site's auth URL
+    url: "https://sabicon.vercel.app/sign-in", // Replace with your site's auth URL
     siteName: "SabiCon",
     images: [
       {
-        url: "https://your-site.com/og-image.jpg", // Replace with a relevant OG image (e.g., 1200x630px)
+        url: "https://sabicon.vercel.app/logo.svg", // Replace with a relevant OG image (e.g., 1200x630px)
         width: 1200,
         height: 630,
         alt: "SabiCon Platform Preview",
@@ -44,8 +44,8 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Sign In to SabiCon",
     description: "Share and discover ideas on SabiCon. Join the community today!",
-    images: ["https://your-site.com/twitter-image.jpg"], // Replace with a Twitter-optimized image (e.g., 1200x675px)
-    creator: "@yourtwitterhandle", // Optional: Your Twitter handle
+    images: ["https://x.com/SabiDev999/photo"], // Replace with a Twitter-optimized image (e.g., 1200x675px)
+    creator: "https://x.com/SabiDev999", // Optional: Your Twitter handle
   },
 };
 
